@@ -10,6 +10,7 @@
     "lint": "eslint . --ext .vue,.js,.jsx,.cjs,.mjs --fix --ignore-path .gitignore"
   },
   "dependencies": {
+    "@microsoft/fetch-event-source": "^2.0.1",
     "markdown-it": "^14.0.0",
     "unplugin-vue-markdown": "^0.26.0",
     "vue": "^3.4.21"
